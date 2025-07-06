@@ -114,9 +114,6 @@ Below are some key interfaces from the Car Rental Management System:
 ![All Rentals](resources/screenshots/all_rentals.png)
 > Admin dashboard listing rental records with Customer ID, Car ID, Dates, Cost, and Return Status.
 
-v
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## ## 🔧 Requirements
