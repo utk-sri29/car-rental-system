@@ -1,0 +1,8 @@
+----- Rental Receipt -----
+Customer: utkarsh
+Car ID: C002
+Rental Start Date: 2025-06-27
+Rental End Date: 2025-06-29
+Total Days: 3
+Total Cost: ₹30000.0
+--------------------------

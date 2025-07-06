@@ -1,0 +1,8 @@
+----- Rental Receipt -----
+Customer: lallan chaubey
+Car ID: C005
+Rental Start Date: 2025-07-03
+Rental End Date: 2025-07-05
+Total Days: 3
+Total Cost: ₹27000.0
+--------------------------

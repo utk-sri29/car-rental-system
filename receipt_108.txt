@@ -1,0 +1,8 @@
+----- Rental Receipt -----
+Customer: NOTHING
+Car ID: C005
+Rental Start Date: 2025-06-27
+Rental End Date: 2025-06-30
+Total Days: 4
+Total Cost: ₹36000.0
+--------------------------

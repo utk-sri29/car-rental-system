@@ -1,0 +1,8 @@
+----- Rental Receipt -----
+Customer: fouteen
+Car ID: C004
+Rental Start Date: 2025-10-29
+Rental End Date: 2026-04-13
+Total Days: null
+Total Cost: ₹751500.0
+--------------------------
