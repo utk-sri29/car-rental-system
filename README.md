@@ -42,7 +42,7 @@ Proper checks for empty fields, invalid dates, and database errors to ensure smo
 
 
 # 🧱 Project Structure
-
+```text
 CarRentalSystem/
 ├── carrentalsystem/
 │ ├── MainMenu.java # Main GUI with buttons to access all modules
@@ -68,7 +68,7 @@ CarRentalSystem/
 ├── receipt_<customerId>.txt # Auto-generated text receipts for each rental
 │
 ├── README.md # Project documentation
-
+```
    # # ✨ Highlights:
    
 - **Separation of Concerns:** Each GUI has its own class for better readability and scalability.
