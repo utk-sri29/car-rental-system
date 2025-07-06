@@ -1,8 +1,0 @@
------ Rental Receipt -----
-Customer: LEBROM
-Car ID: C001
-Rental Start Date: 2025-06-29
-Rental End Date: 2025-07-03
-Total Days: 5
-Total Cost: ₹25000.0
---------------------------

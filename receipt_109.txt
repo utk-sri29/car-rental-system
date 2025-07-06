@@ -1,8 +1,0 @@
------ Rental Receipt -----
-Customer: UJJWALA
-Car ID: C001
-Rental Start Date: 2025-06-21
-Rental End Date: 2025-06-24
-Total Days: 4
-Total Cost: ₹20000.0
---------------------------

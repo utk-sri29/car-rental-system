@@ -1,8 +1,0 @@
------ Rental Receipt -----
-Customer: TWENTIONE
-Car ID: C003
-Rental Start Date: 2025-10-29
-Rental End Date: 2025-11-14
-Total Days: null
-Total Cost: ₹51000.0
---------------------------

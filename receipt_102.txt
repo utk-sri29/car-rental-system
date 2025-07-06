@@ -1,8 +1,0 @@
------ Rental Receipt -----
-Customer: dalal
-Car ID: C003
-Rental Start Date: 2025-06-20
-Rental End Date: 2025-06-24
-Total Days: 5
-Total Cost: ₹15000.0
---------------------------

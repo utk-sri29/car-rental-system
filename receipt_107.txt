@@ -1,8 +1,0 @@
------ Rental Receipt -----
-Customer: idkbro
-Car ID: C004
-Rental Start Date: 2025-06-24
-Rental End Date: 2025-06-25
-Total Days: 2
-Total Cost: ₹9000.0
---------------------------

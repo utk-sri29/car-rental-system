@@ -1,8 +1,0 @@
------ Rental Receipt -----
-Customer: DWITIYA
-Car ID: C005
-Rental Start Date: 2025-07-01
-Rental End Date: 2025-07-03
-Total Days: 3
-Total Cost: ₹27000.0
---------------------------
